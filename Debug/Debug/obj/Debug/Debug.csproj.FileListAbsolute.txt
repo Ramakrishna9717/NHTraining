@@ -1,0 +1,8 @@
+D:\rama\netproject\Debug\Debug\bin\Debug\Debug.exe.config
+D:\rama\netproject\Debug\Debug\bin\Debug\Debug.exe
+D:\rama\netproject\Debug\Debug\bin\Debug\Debug.pdb
+D:\rama\netproject\Debug\Debug\obj\Debug\Debug.csproj.AssemblyReference.cache
+D:\rama\netproject\Debug\Debug\obj\Debug\Debug.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Debug\Debug\obj\Debug\Debug.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Debug\Debug\obj\Debug\Debug.exe
+D:\rama\netproject\Debug\Debug\obj\Debug\Debug.pdb
