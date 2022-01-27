@@ -1,0 +1,8 @@
+D:\rama\netproject\multiplication\multiplication\bin\Debug\multiplication.exe.config
+D:\rama\netproject\multiplication\multiplication\bin\Debug\multiplication.exe
+D:\rama\netproject\multiplication\multiplication\bin\Debug\multiplication.pdb
+D:\rama\netproject\multiplication\multiplication\obj\Debug\multiplication.csproj.AssemblyReference.cache
+D:\rama\netproject\multiplication\multiplication\obj\Debug\multiplication.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\multiplication\multiplication\obj\Debug\multiplication.csproj.CoreCompileInputs.cache
+D:\rama\netproject\multiplication\multiplication\obj\Debug\multiplication.exe
+D:\rama\netproject\multiplication\multiplication\obj\Debug\multiplication.pdb

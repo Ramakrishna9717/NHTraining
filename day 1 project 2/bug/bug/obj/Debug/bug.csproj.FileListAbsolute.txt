@@ -1,0 +1,3 @@
+D:\rama\netproject\bug\bug\obj\Debug\bug.csproj.AssemblyReference.cache
+D:\rama\netproject\bug\bug\obj\Debug\bug.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\bug\bug\obj\Debug\bug.csproj.CoreCompileInputs.cache

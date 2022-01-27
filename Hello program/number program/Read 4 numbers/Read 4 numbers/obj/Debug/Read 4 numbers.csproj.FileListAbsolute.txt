@@ -1,0 +1,7 @@
+D:\rama\netproject\Read 4 numbers\Read 4 numbers\bin\Debug\Read 4 numbers.exe.config
+D:\rama\netproject\Read 4 numbers\Read 4 numbers\bin\Debug\Read 4 numbers.exe
+D:\rama\netproject\Read 4 numbers\Read 4 numbers\bin\Debug\Read 4 numbers.pdb
+D:\rama\netproject\Read 4 numbers\Read 4 numbers\obj\Debug\Read 4 numbers.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Read 4 numbers\Read 4 numbers\obj\Debug\Read 4 numbers.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Read 4 numbers\Read 4 numbers\obj\Debug\Read 4 numbers.exe
+D:\rama\netproject\Read 4 numbers\Read 4 numbers\obj\Debug\Read 4 numbers.pdb

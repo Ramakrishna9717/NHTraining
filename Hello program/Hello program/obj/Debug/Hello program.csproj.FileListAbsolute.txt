@@ -1,0 +1,7 @@
+D:\rama\netproject\Hello program\Hello program\bin\Debug\Hello program.exe.config
+D:\rama\netproject\Hello program\Hello program\bin\Debug\Hello program.exe
+D:\rama\netproject\Hello program\Hello program\bin\Debug\Hello program.pdb
+D:\rama\netproject\Hello program\Hello program\obj\Debug\Hello program.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Hello program\Hello program\obj\Debug\Hello program.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Hello program\Hello program\obj\Debug\Hello program.exe
+D:\rama\netproject\Hello program\Hello program\obj\Debug\Hello program.pdb

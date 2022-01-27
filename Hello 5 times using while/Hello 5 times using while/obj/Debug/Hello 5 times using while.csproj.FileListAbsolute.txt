@@ -1,0 +1,2 @@
+D:\rama\netproject\Hello 5 times using while\Hello 5 times using while\obj\Debug\Hello 5 times using while.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Hello 5 times using while\Hello 5 times using while\obj\Debug\Hello 5 times using while.csproj.CoreCompileInputs.cache

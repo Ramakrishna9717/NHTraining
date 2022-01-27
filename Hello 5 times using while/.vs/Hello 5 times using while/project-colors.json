@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cc8f5133-2d2a-484f-8338-ef2b51917cab": {
+      "ProjectGuid": "cc8f5133-2d2a-484f-8338-ef2b51917cab",
+      "DisplayName": "Hello 5 times using while",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

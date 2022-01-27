@@ -1,0 +1,2 @@
+D:\rama\netproject\Print factors\Print factors\obj\Debug\Print factors.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Print factors\Print factors\obj\Debug\Print factors.csproj.CoreCompileInputs.cache
