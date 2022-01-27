@@ -1,0 +1,8 @@
+D:\rama\netproject\Print the values for each loop\Print the values for each loop\bin\Debug\Print the values for each loop.exe.config
+D:\rama\netproject\Print the values for each loop\Print the values for each loop\bin\Debug\Print the values for each loop.exe
+D:\rama\netproject\Print the values for each loop\Print the values for each loop\bin\Debug\Print the values for each loop.pdb
+D:\rama\netproject\Print the values for each loop\Print the values for each loop\obj\Debug\Print the values for each loop.csproj.AssemblyReference.cache
+D:\rama\netproject\Print the values for each loop\Print the values for each loop\obj\Debug\Print the values for each loop.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Print the values for each loop\Print the values for each loop\obj\Debug\Print the values for each loop.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Print the values for each loop\Print the values for each loop\obj\Debug\Print the values for each loop.exe
+D:\rama\netproject\Print the values for each loop\Print the values for each loop\obj\Debug\Print the values for each loop.pdb
