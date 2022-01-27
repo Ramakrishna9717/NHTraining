@@ -1,8 +1,0 @@
-D:\rama\netproject\N  Natural nunbers program\N  Natural nunbers program\bin\Debug\N  Natural nunbers program.exe.config
-D:\rama\netproject\N  Natural nunbers program\N  Natural nunbers program\bin\Debug\N  Natural nunbers program.exe
-D:\rama\netproject\N  Natural nunbers program\N  Natural nunbers program\bin\Debug\N  Natural nunbers program.pdb
-D:\rama\netproject\N  Natural nunbers program\N  Natural nunbers program\obj\Debug\N  Natural nunbers program.csproj.AssemblyReference.cache
-D:\rama\netproject\N  Natural nunbers program\N  Natural nunbers program\obj\Debug\N  Natural nunbers program.csproj.SuggestedBindingRedirects.cache
-D:\rama\netproject\N  Natural nunbers program\N  Natural nunbers program\obj\Debug\N  Natural nunbers program.csproj.CoreCompileInputs.cache
-D:\rama\netproject\N  Natural nunbers program\N  Natural nunbers program\obj\Debug\N  Natural nunbers program.exe
-D:\rama\netproject\N  Natural nunbers program\N  Natural nunbers program\obj\Debug\N  Natural nunbers program.pdb

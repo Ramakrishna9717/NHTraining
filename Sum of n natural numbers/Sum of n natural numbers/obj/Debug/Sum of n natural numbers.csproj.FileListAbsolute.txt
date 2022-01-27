@@ -1,0 +1,8 @@
+D:\rama\netproject\Sum of n natural numbers\Sum of n natural numbers\bin\Debug\Sum of n natural numbers.exe.config
+D:\rama\netproject\Sum of n natural numbers\Sum of n natural numbers\bin\Debug\Sum of n natural numbers.exe
+D:\rama\netproject\Sum of n natural numbers\Sum of n natural numbers\bin\Debug\Sum of n natural numbers.pdb
+D:\rama\netproject\Sum of n natural numbers\Sum of n natural numbers\obj\Debug\Sum of n natural numbers.csproj.AssemblyReference.cache
+D:\rama\netproject\Sum of n natural numbers\Sum of n natural numbers\obj\Debug\Sum of n natural numbers.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Sum of n natural numbers\Sum of n natural numbers\obj\Debug\Sum of n natural numbers.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Sum of n natural numbers\Sum of n natural numbers\obj\Debug\Sum of n natural numbers.exe
+D:\rama\netproject\Sum of n natural numbers\Sum of n natural numbers\obj\Debug\Sum of n natural numbers.pdb

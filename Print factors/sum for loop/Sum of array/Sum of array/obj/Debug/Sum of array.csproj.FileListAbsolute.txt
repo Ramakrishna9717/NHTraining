@@ -1,8 +1,0 @@
-D:\rama\netproject\Sum of array\Sum of array\bin\Debug\Sum of array.exe.config
-D:\rama\netproject\Sum of array\Sum of array\bin\Debug\Sum of array.exe
-D:\rama\netproject\Sum of array\Sum of array\bin\Debug\Sum of array.pdb
-D:\rama\netproject\Sum of array\Sum of array\obj\Debug\Sum of array.csproj.AssemblyReference.cache
-D:\rama\netproject\Sum of array\Sum of array\obj\Debug\Sum of array.csproj.SuggestedBindingRedirects.cache
-D:\rama\netproject\Sum of array\Sum of array\obj\Debug\Sum of array.csproj.CoreCompileInputs.cache
-D:\rama\netproject\Sum of array\Sum of array\obj\Debug\Sum of array.exe
-D:\rama\netproject\Sum of array\Sum of array\obj\Debug\Sum of array.pdb

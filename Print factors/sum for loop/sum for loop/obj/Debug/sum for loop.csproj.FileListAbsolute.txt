@@ -1,7 +1,0 @@
-D:\rama\netproject\sum for loop\sum for loop\bin\Debug\sum for loop.exe.config
-D:\rama\netproject\sum for loop\sum for loop\bin\Debug\sum for loop.exe
-D:\rama\netproject\sum for loop\sum for loop\bin\Debug\sum for loop.pdb
-D:\rama\netproject\sum for loop\sum for loop\obj\Debug\sum for loop.csproj.SuggestedBindingRedirects.cache
-D:\rama\netproject\sum for loop\sum for loop\obj\Debug\sum for loop.csproj.CoreCompileInputs.cache
-D:\rama\netproject\sum for loop\sum for loop\obj\Debug\sum for loop.exe
-D:\rama\netproject\sum for loop\sum for loop\obj\Debug\sum for loop.pdb

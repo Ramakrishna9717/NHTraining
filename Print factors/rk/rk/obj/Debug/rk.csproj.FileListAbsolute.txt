@@ -1,7 +1,0 @@
-D:\rama\netproject\rk\rk\bin\Debug\rk.exe.config
-D:\rama\netproject\rk\rk\bin\Debug\rk.exe
-D:\rama\netproject\rk\rk\bin\Debug\rk.pdb
-D:\rama\netproject\rk\rk\obj\Debug\rk.csproj.SuggestedBindingRedirects.cache
-D:\rama\netproject\rk\rk\obj\Debug\rk.csproj.CoreCompileInputs.cache
-D:\rama\netproject\rk\rk\obj\Debug\rk.exe
-D:\rama\netproject\rk\rk\obj\Debug\rk.pdb

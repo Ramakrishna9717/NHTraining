@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello 5 times using while", "Hello 5 times using while\Hello 5 times using while.csproj", "{1AC42191-1EEF-4A5A-87C6-57BDAB9FD2C0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum of n natural numbers", "Sum of n natural numbers\Sum of n natural numbers.csproj", "{E3602DBD-34D4-4206-89F2-8D8E4972116E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1AC42191-1EEF-4A5A-87C6-57BDAB9FD2C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1AC42191-1EEF-4A5A-87C6-57BDAB9FD2C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1AC42191-1EEF-4A5A-87C6-57BDAB9FD2C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1AC42191-1EEF-4A5A-87C6-57BDAB9FD2C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3602DBD-34D4-4206-89F2-8D8E4972116E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3602DBD-34D4-4206-89F2-8D8E4972116E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3602DBD-34D4-4206-89F2-8D8E4972116E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3602DBD-34D4-4206-89F2-8D8E4972116E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {83194578-9B78-4199-88EF-18E1506B1C6C}
+		SolutionGuid = {5CFADC41-DD4E-4ADD-B55E-62B3EE613D14}
 	EndGlobalSection
 EndGlobal
