@@ -1,0 +1,7 @@
+D:\rama\netproject\power of given number\power of given number\bin\Debug\power of given number.exe.config
+D:\rama\netproject\power of given number\power of given number\bin\Debug\power of given number.exe
+D:\rama\netproject\power of given number\power of given number\bin\Debug\power of given number.pdb
+D:\rama\netproject\power of given number\power of given number\obj\Debug\power of given number.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\power of given number\power of given number\obj\Debug\power of given number.csproj.CoreCompileInputs.cache
+D:\rama\netproject\power of given number\power of given number\obj\Debug\power of given number.exe
+D:\rama\netproject\power of given number\power of given number\obj\Debug\power of given number.pdb

@@ -1,0 +1,7 @@
+D:\rama\netproject\swap with out variable\swap with out variable\bin\Debug\swap with out variable.exe.config
+D:\rama\netproject\swap with out variable\swap with out variable\bin\Debug\swap with out variable.exe
+D:\rama\netproject\swap with out variable\swap with out variable\bin\Debug\swap with out variable.pdb
+D:\rama\netproject\swap with out variable\swap with out variable\obj\Debug\swap with out variable.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\swap with out variable\swap with out variable\obj\Debug\swap with out variable.csproj.CoreCompileInputs.cache
+D:\rama\netproject\swap with out variable\swap with out variable\obj\Debug\swap with out variable.exe
+D:\rama\netproject\swap with out variable\swap with out variable\obj\Debug\swap with out variable.pdb

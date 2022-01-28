@@ -1,0 +1,7 @@
+D:\rama\netproject\amstrong\amstrong\bin\Debug\amstrong.exe.config
+D:\rama\netproject\amstrong\amstrong\bin\Debug\amstrong.exe
+D:\rama\netproject\amstrong\amstrong\bin\Debug\amstrong.pdb
+D:\rama\netproject\amstrong\amstrong\obj\Debug\amstrong.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\amstrong\amstrong\obj\Debug\amstrong.csproj.CoreCompileInputs.cache
+D:\rama\netproject\amstrong\amstrong\obj\Debug\amstrong.exe
+D:\rama\netproject\amstrong\amstrong\obj\Debug\amstrong.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "33145d18-fb3d-44fd-9e22-ef3a8e0b8dfb": {
+      "ProjectGuid": "33145d18-fb3d-44fd-9e22-ef3a8e0b8dfb",
+      "DisplayName": "Sum of Numbers",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

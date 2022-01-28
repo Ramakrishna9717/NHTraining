@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "560d6f44-f7b4-4723-9d9b-1070dfc6819f": {
+      "ProjectGuid": "560d6f44-f7b4-4723-9d9b-1070dfc6819f",
+      "DisplayName": "power of given number",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

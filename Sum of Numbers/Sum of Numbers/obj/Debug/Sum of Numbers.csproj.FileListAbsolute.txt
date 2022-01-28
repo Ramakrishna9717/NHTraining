@@ -1,0 +1,7 @@
+D:\rama\netproject\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.exe.config
+D:\rama\netproject\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.exe
+D:\rama\netproject\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.pdb
+D:\rama\netproject\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.exe
+D:\rama\netproject\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.pdb

@@ -1,0 +1,7 @@
+D:\rama\netproject\print star\print star\bin\Debug\print star.exe.config
+D:\rama\netproject\print star\print star\bin\Debug\print star.exe
+D:\rama\netproject\print star\print star\bin\Debug\print star.pdb
+D:\rama\netproject\print star\print star\obj\Debug\print star.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\print star\print star\obj\Debug\print star.csproj.CoreCompileInputs.cache
+D:\rama\netproject\print star\print star\obj\Debug\print star.exe
+D:\rama\netproject\print star\print star\obj\Debug\print star.pdb

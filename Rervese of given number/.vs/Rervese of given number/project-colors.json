@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8f5f757a-2dc7-4f37-96db-855f47879ecd": {
+      "ProjectGuid": "8f5f757a-2dc7-4f37-96db-855f47879ecd",
+      "DisplayName": "Rervese of given number",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
