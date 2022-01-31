@@ -1,0 +1,8 @@
+D:\rama\netproject\prime number or not\prime number or not\bin\Debug\prime number or not.exe.config
+D:\rama\netproject\prime number or not\prime number or not\bin\Debug\prime number or not.exe
+D:\rama\netproject\prime number or not\prime number or not\bin\Debug\prime number or not.pdb
+D:\rama\netproject\prime number or not\prime number or not\obj\Debug\prime number or not.csproj.AssemblyReference.cache
+D:\rama\netproject\prime number or not\prime number or not\obj\Debug\prime number or not.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\prime number or not\prime number or not\obj\Debug\prime number or not.csproj.CoreCompileInputs.cache
+D:\rama\netproject\prime number or not\prime number or not\obj\Debug\prime number or not.exe
+D:\rama\netproject\prime number or not\prime number or not\obj\Debug\prime number or not.pdb

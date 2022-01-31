@@ -1,0 +1,7 @@
+D:\rama\netproject\Swap numbers\Swap numbers\bin\Debug\Swap numbers.exe.config
+D:\rama\netproject\Swap numbers\Swap numbers\bin\Debug\Swap numbers.exe
+D:\rama\netproject\Swap numbers\Swap numbers\bin\Debug\Swap numbers.pdb
+D:\rama\netproject\Swap numbers\Swap numbers\obj\Debug\Swap numbers.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Swap numbers\Swap numbers\obj\Debug\Swap numbers.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Swap numbers\Swap numbers\obj\Debug\Swap numbers.exe
+D:\rama\netproject\Swap numbers\Swap numbers\obj\Debug\Swap numbers.pdb

@@ -1,0 +1,7 @@
+D:\rama\netproject\print factors of given number\print factors of given number\bin\Debug\print factors of given number.exe.config
+D:\rama\netproject\print factors of given number\print factors of given number\bin\Debug\print factors of given number.exe
+D:\rama\netproject\print factors of given number\print factors of given number\bin\Debug\print factors of given number.pdb
+D:\rama\netproject\print factors of given number\print factors of given number\obj\Debug\print factors of given number.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\print factors of given number\print factors of given number\obj\Debug\print factors of given number.csproj.CoreCompileInputs.cache
+D:\rama\netproject\print factors of given number\print factors of given number\obj\Debug\print factors of given number.exe
+D:\rama\netproject\print factors of given number\print factors of given number\obj\Debug\print factors of given number.pdb

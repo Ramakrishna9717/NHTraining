@@ -1,0 +1,2 @@
+D:\rama\netproject\sum of eachloop\sum of eachloop\obj\Debug\sum of eachloop.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\sum of eachloop\sum of eachloop\obj\Debug\sum of eachloop.csproj.CoreCompileInputs.cache

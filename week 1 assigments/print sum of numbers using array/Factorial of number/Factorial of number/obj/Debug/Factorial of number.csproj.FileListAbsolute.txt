@@ -1,0 +1,8 @@
+D:\rama\netproject\Factorial of number\Factorial of number\bin\Debug\Factorial of number.exe.config
+D:\rama\netproject\Factorial of number\Factorial of number\bin\Debug\Factorial of number.exe
+D:\rama\netproject\Factorial of number\Factorial of number\bin\Debug\Factorial of number.pdb
+D:\rama\netproject\Factorial of number\Factorial of number\obj\Debug\Factorial of number.csproj.AssemblyReference.cache
+D:\rama\netproject\Factorial of number\Factorial of number\obj\Debug\Factorial of number.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Factorial of number\Factorial of number\obj\Debug\Factorial of number.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Factorial of number\Factorial of number\obj\Debug\Factorial of number.exe
+D:\rama\netproject\Factorial of number\Factorial of number\obj\Debug\Factorial of number.pdb

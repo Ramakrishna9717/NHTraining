@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fcca1f6a-3cd5-4d77-829e-8709530179de": {
+      "ProjectGuid": "fcca1f6a-3cd5-4d77-829e-8709530179de",
+      "DisplayName": "Factorial program",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

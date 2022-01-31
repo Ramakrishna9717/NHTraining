@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fccff694-2d11-4134-a683-f4c7e55b16ce": {
+      "ProjectGuid": "fccff694-2d11-4134-a683-f4c7e55b16ce",
+      "DisplayName": "Swap numbers",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

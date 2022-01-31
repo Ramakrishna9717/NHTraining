@@ -1,0 +1,7 @@
+D:\rama\netproject\palindrome number\palindrome number\bin\Debug\palindrome number.exe.config
+D:\rama\netproject\palindrome number\palindrome number\bin\Debug\palindrome number.exe
+D:\rama\netproject\palindrome number\palindrome number\bin\Debug\palindrome number.pdb
+D:\rama\netproject\palindrome number\palindrome number\obj\Debug\palindrome number.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\palindrome number\palindrome number\obj\Debug\palindrome number.csproj.CoreCompileInputs.cache
+D:\rama\netproject\palindrome number\palindrome number\obj\Debug\palindrome number.exe
+D:\rama\netproject\palindrome number\palindrome number\obj\Debug\palindrome number.pdb

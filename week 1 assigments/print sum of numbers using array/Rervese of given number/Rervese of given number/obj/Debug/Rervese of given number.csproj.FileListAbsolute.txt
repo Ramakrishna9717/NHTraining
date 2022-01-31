@@ -1,0 +1,7 @@
+D:\rama\netproject\Rervese of given number\Rervese of given number\bin\Debug\Rervese of given number.exe.config
+D:\rama\netproject\Rervese of given number\Rervese of given number\bin\Debug\Rervese of given number.exe
+D:\rama\netproject\Rervese of given number\Rervese of given number\bin\Debug\Rervese of given number.pdb
+D:\rama\netproject\Rervese of given number\Rervese of given number\obj\Debug\Rervese of given number.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Rervese of given number\Rervese of given number\obj\Debug\Rervese of given number.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Rervese of given number\Rervese of given number\obj\Debug\Rervese of given number.exe
+D:\rama\netproject\Rervese of given number\Rervese of given number\obj\Debug\Rervese of given number.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b6f6d79d-8b4d-41c8-82dc-4f9d369de08d": {
+      "ProjectGuid": "b6f6d79d-8b4d-41c8-82dc-4f9d369de08d",
+      "DisplayName": "Read 4 numbers",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

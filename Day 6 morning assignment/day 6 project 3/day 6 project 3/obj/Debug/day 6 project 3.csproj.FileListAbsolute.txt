@@ -1,0 +1,8 @@
+D:\rama\netproject\day 6 project 3\day 6 project 3\bin\Debug\day 6 project 3.exe.config
+D:\rama\netproject\day 6 project 3\day 6 project 3\bin\Debug\day 6 project 3.exe
+D:\rama\netproject\day 6 project 3\day 6 project 3\bin\Debug\day 6 project 3.pdb
+D:\rama\netproject\day 6 project 3\day 6 project 3\obj\Debug\day 6 project 3.csproj.AssemblyReference.cache
+D:\rama\netproject\day 6 project 3\day 6 project 3\obj\Debug\day 6 project 3.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\day 6 project 3\day 6 project 3\obj\Debug\day 6 project 3.csproj.CoreCompileInputs.cache
+D:\rama\netproject\day 6 project 3\day 6 project 3\obj\Debug\day 6 project 3.exe
+D:\rama\netproject\day 6 project 3\day 6 project 3\obj\Debug\day 6 project 3.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e9de3451-ddda-47e0-926d-b434c5192254": {
+      "ProjectGuid": "e9de3451-ddda-47e0-926d-b434c5192254",
+      "DisplayName": "Debug program",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
