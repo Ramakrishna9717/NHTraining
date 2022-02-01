@@ -1,0 +1,8 @@
+D:\rama\netproject\Day 7\product array\product array\bin\Debug\product array.exe.config
+D:\rama\netproject\Day 7\product array\product array\bin\Debug\product array.exe
+D:\rama\netproject\Day 7\product array\product array\bin\Debug\product array.pdb
+D:\rama\netproject\Day 7\product array\product array\obj\Debug\product array.csproj.AssemblyReference.cache
+D:\rama\netproject\Day 7\product array\product array\obj\Debug\product array.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Day 7\product array\product array\obj\Debug\product array.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Day 7\product array\product array\obj\Debug\product array.exe
+D:\rama\netproject\Day 7\product array\product array\obj\Debug\product array.pdb

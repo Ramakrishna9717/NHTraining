@@ -1,0 +1,8 @@
+D:\rama\netproject\Day 7\create 5 Employees\create 5 Employees\bin\Debug\create 5 Employees.exe.config
+D:\rama\netproject\Day 7\create 5 Employees\create 5 Employees\bin\Debug\create 5 Employees.exe
+D:\rama\netproject\Day 7\create 5 Employees\create 5 Employees\bin\Debug\create 5 Employees.pdb
+D:\rama\netproject\Day 7\create 5 Employees\create 5 Employees\obj\Debug\create 5 Employees.csproj.AssemblyReference.cache
+D:\rama\netproject\Day 7\create 5 Employees\create 5 Employees\obj\Debug\create 5 Employees.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Day 7\create 5 Employees\create 5 Employees\obj\Debug\create 5 Employees.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Day 7\create 5 Employees\create 5 Employees\obj\Debug\create 5 Employees.exe
+D:\rama\netproject\Day 7\create 5 Employees\create 5 Employees\obj\Debug\create 5 Employees.pdb

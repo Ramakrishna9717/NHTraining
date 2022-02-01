@@ -1,0 +1,8 @@
+D:\rama\netproject\Day 7\print lessthen\print lessthen\bin\Debug\print lessthen.exe.config
+D:\rama\netproject\Day 7\print lessthen\print lessthen\bin\Debug\print lessthen.exe
+D:\rama\netproject\Day 7\print lessthen\print lessthen\bin\Debug\print lessthen.pdb
+D:\rama\netproject\Day 7\print lessthen\print lessthen\obj\Debug\print lessthen.csproj.AssemblyReference.cache
+D:\rama\netproject\Day 7\print lessthen\print lessthen\obj\Debug\print lessthen.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Day 7\print lessthen\print lessthen\obj\Debug\print lessthen.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Day 7\print lessthen\print lessthen\obj\Debug\print lessthen.exe
+D:\rama\netproject\Day 7\print lessthen\print lessthen\obj\Debug\print lessthen.pdb

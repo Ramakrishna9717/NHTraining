@@ -1,0 +1,8 @@
+D:\rama\netproject\Day 7\public variable\public variable\bin\Debug\public variable.exe.config
+D:\rama\netproject\Day 7\public variable\public variable\bin\Debug\public variable.exe
+D:\rama\netproject\Day 7\public variable\public variable\bin\Debug\public variable.pdb
+D:\rama\netproject\Day 7\public variable\public variable\obj\Debug\public variable.csproj.AssemblyReference.cache
+D:\rama\netproject\Day 7\public variable\public variable\obj\Debug\public variable.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Day 7\public variable\public variable\obj\Debug\public variable.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Day 7\public variable\public variable\obj\Debug\public variable.exe
+D:\rama\netproject\Day 7\public variable\public variable\obj\Debug\public variable.pdb

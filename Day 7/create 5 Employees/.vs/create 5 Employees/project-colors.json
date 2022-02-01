@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f3a1d0a1-bb69-4984-9a28-88e2db8db546": {
+      "ProjectGuid": "f3a1d0a1-bb69-4984-9a28-88e2db8db546",
+      "DisplayName": "create 5 Employees",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
