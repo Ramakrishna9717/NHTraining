@@ -1,0 +1,8 @@
+D:\rama\netproject\Day 8\customer class\customer class\bin\Debug\customer class.exe.config
+D:\rama\netproject\Day 8\customer class\customer class\bin\Debug\customer class.exe
+D:\rama\netproject\Day 8\customer class\customer class\bin\Debug\customer class.pdb
+D:\rama\netproject\Day 8\customer class\customer class\obj\Debug\customer class.csproj.AssemblyReference.cache
+D:\rama\netproject\Day 8\customer class\customer class\obj\Debug\customer class.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Day 8\customer class\customer class\obj\Debug\customer class.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Day 8\customer class\customer class\obj\Debug\customer class.exe
+D:\rama\netproject\Day 8\customer class\customer class\obj\Debug\customer class.pdb

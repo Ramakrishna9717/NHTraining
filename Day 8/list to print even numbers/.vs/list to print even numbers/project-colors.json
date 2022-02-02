@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0e14c024-f762-44bd-8992-9eaa23501519": {
+      "ProjectGuid": "0e14c024-f762-44bd-8992-9eaa23501519",
+      "DisplayName": "list to print even numbers",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

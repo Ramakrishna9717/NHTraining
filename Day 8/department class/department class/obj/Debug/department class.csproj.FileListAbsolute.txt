@@ -1,0 +1,8 @@
+D:\rama\netproject\Day 8\department class\department class\bin\Debug\department class.exe.config
+D:\rama\netproject\Day 8\department class\department class\bin\Debug\department class.exe
+D:\rama\netproject\Day 8\department class\department class\bin\Debug\department class.pdb
+D:\rama\netproject\Day 8\department class\department class\obj\Debug\department class.csproj.AssemblyReference.cache
+D:\rama\netproject\Day 8\department class\department class\obj\Debug\department class.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Day 8\department class\department class\obj\Debug\department class.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Day 8\department class\department class\obj\Debug\department class.exe
+D:\rama\netproject\Day 8\department class\department class\obj\Debug\department class.pdb

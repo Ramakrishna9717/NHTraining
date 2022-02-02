@@ -1,0 +1,8 @@
+D:\rama\netproject\Day 8\product class\product class\obj\Debug\product class.csproj.AssemblyReference.cache
+D:\rama\netproject\Day 8\product class\product class\obj\Debug\product class.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Day 8\product class\product class\obj\Debug\product class.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Day 8\product class\product class\bin\Debug\product class.exe.config
+D:\rama\netproject\Day 8\product class\product class\bin\Debug\product class.exe
+D:\rama\netproject\Day 8\product class\product class\bin\Debug\product class.pdb
+D:\rama\netproject\Day 8\product class\product class\obj\Debug\product class.exe
+D:\rama\netproject\Day 8\product class\product class\obj\Debug\product class.pdb

@@ -1,0 +1,8 @@
+D:\rama\netproject\Day 8\list to print even numbers\list to print even numbers\obj\Debug\list to print even numbers.csproj.AssemblyReference.cache
+D:\rama\netproject\Day 8\list to print even numbers\list to print even numbers\obj\Debug\list to print even numbers.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Day 8\list to print even numbers\list to print even numbers\obj\Debug\list to print even numbers.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Day 8\list to print even numbers\list to print even numbers\bin\Debug\list to print even numbers.exe.config
+D:\rama\netproject\Day 8\list to print even numbers\list to print even numbers\bin\Debug\list to print even numbers.exe
+D:\rama\netproject\Day 8\list to print even numbers\list to print even numbers\bin\Debug\list to print even numbers.pdb
+D:\rama\netproject\Day 8\list to print even numbers\list to print even numbers\obj\Debug\list to print even numbers.exe
+D:\rama\netproject\Day 8\list to print even numbers\list to print even numbers\obj\Debug\list to print even numbers.pdb
