@@ -1,0 +1,8 @@
+D:\rama\netproject\Day 9\employee class constructor\employee class constructor\bin\Debug\employee class constructor.exe.config
+D:\rama\netproject\Day 9\employee class constructor\employee class constructor\bin\Debug\employee class constructor.exe
+D:\rama\netproject\Day 9\employee class constructor\employee class constructor\bin\Debug\employee class constructor.pdb
+D:\rama\netproject\Day 9\employee class constructor\employee class constructor\obj\Debug\employee class constructor.csproj.AssemblyReference.cache
+D:\rama\netproject\Day 9\employee class constructor\employee class constructor\obj\Debug\employee class constructor.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Day 9\employee class constructor\employee class constructor\obj\Debug\employee class constructor.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Day 9\employee class constructor\employee class constructor\obj\Debug\employee class constructor.exe
+D:\rama\netproject\Day 9\employee class constructor\employee class constructor\obj\Debug\employee class constructor.pdb

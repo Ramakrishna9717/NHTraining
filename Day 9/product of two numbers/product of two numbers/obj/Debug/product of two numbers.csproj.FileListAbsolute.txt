@@ -1,0 +1,7 @@
+D:\rama\netproject\Day 9\product of two numbers\product of two numbers\bin\Debug\product of two numbers.exe.config
+D:\rama\netproject\Day 9\product of two numbers\product of two numbers\bin\Debug\product of two numbers.exe
+D:\rama\netproject\Day 9\product of two numbers\product of two numbers\bin\Debug\product of two numbers.pdb
+D:\rama\netproject\Day 9\product of two numbers\product of two numbers\obj\Debug\product of two numbers.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Day 9\product of two numbers\product of two numbers\obj\Debug\product of two numbers.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Day 9\product of two numbers\product of two numbers\obj\Debug\product of two numbers.exe
+D:\rama\netproject\Day 9\product of two numbers\product of two numbers\obj\Debug\product of two numbers.pdb

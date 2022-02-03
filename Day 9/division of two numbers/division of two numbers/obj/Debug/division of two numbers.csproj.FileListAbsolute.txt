@@ -1,0 +1,7 @@
+D:\rama\netproject\Day 9\division of two numbers\division of two numbers\bin\Debug\division of two numbers.exe.config
+D:\rama\netproject\Day 9\division of two numbers\division of two numbers\bin\Debug\division of two numbers.exe
+D:\rama\netproject\Day 9\division of two numbers\division of two numbers\bin\Debug\division of two numbers.pdb
+D:\rama\netproject\Day 9\division of two numbers\division of two numbers\obj\Debug\division of two numbers.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Day 9\division of two numbers\division of two numbers\obj\Debug\division of two numbers.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Day 9\division of two numbers\division of two numbers\obj\Debug\division of two numbers.exe
+D:\rama\netproject\Day 9\division of two numbers\division of two numbers\obj\Debug\division of two numbers.pdb

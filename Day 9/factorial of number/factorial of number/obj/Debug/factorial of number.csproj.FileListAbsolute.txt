@@ -1,0 +1,7 @@
+D:\rama\netproject\Day 9\factorial of number\factorial of number\bin\Debug\factorial of number.exe.config
+D:\rama\netproject\Day 9\factorial of number\factorial of number\bin\Debug\factorial of number.exe
+D:\rama\netproject\Day 9\factorial of number\factorial of number\bin\Debug\factorial of number.pdb
+D:\rama\netproject\Day 9\factorial of number\factorial of number\obj\Debug\factorial of number.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Day 9\factorial of number\factorial of number\obj\Debug\factorial of number.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Day 9\factorial of number\factorial of number\obj\Debug\factorial of number.exe
+D:\rama\netproject\Day 9\factorial of number\factorial of number\obj\Debug\factorial of number.pdb

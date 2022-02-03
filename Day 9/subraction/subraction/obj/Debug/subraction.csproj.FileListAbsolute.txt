@@ -1,0 +1,7 @@
+D:\rama\netproject\Day 9\subraction\subraction\bin\Debug\subraction.exe.config
+D:\rama\netproject\Day 9\subraction\subraction\bin\Debug\subraction.exe
+D:\rama\netproject\Day 9\subraction\subraction\bin\Debug\subraction.pdb
+D:\rama\netproject\Day 9\subraction\subraction\obj\Debug\subraction.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Day 9\subraction\subraction\obj\Debug\subraction.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Day 9\subraction\subraction\obj\Debug\subraction.exe
+D:\rama\netproject\Day 9\subraction\subraction\obj\Debug\subraction.pdb
