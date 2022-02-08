@@ -1,0 +1,8 @@
+D:\rama\netproject\Day 11\mathematics class\mathematics class\bin\Debug\mathematics class.exe.config
+D:\rama\netproject\Day 11\mathematics class\mathematics class\bin\Debug\mathematics class.exe
+D:\rama\netproject\Day 11\mathematics class\mathematics class\bin\Debug\mathematics class.pdb
+D:\rama\netproject\Day 11\mathematics class\mathematics class\obj\Debug\mathematics class.csproj.AssemblyReference.cache
+D:\rama\netproject\Day 11\mathematics class\mathematics class\obj\Debug\mathematics class.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Day 11\mathematics class\mathematics class\obj\Debug\mathematics class.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Day 11\mathematics class\mathematics class\obj\Debug\mathematics class.exe
+D:\rama\netproject\Day 11\mathematics class\mathematics class\obj\Debug\mathematics class.pdb

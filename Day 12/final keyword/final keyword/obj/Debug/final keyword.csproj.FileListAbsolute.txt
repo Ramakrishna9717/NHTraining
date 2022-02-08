@@ -1,0 +1,8 @@
+D:\rama\netproject\Day 12\final keyword\final keyword\bin\Debug\final keyword.exe.config
+D:\rama\netproject\Day 12\final keyword\final keyword\bin\Debug\final keyword.exe
+D:\rama\netproject\Day 12\final keyword\final keyword\bin\Debug\final keyword.pdb
+D:\rama\netproject\Day 12\final keyword\final keyword\obj\Debug\final keyword.csproj.AssemblyReference.cache
+D:\rama\netproject\Day 12\final keyword\final keyword\obj\Debug\final keyword.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Day 12\final keyword\final keyword\obj\Debug\final keyword.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Day 12\final keyword\final keyword\obj\Debug\final keyword.exe
+D:\rama\netproject\Day 12\final keyword\final keyword\obj\Debug\final keyword.pdb

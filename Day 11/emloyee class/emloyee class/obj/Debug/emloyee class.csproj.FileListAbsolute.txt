@@ -1,0 +1,8 @@
+D:\rama\netproject\Day 11\emloyee class\emloyee class\bin\Debug\emloyee class.exe.config
+D:\rama\netproject\Day 11\emloyee class\emloyee class\bin\Debug\emloyee class.exe
+D:\rama\netproject\Day 11\emloyee class\emloyee class\bin\Debug\emloyee class.pdb
+D:\rama\netproject\Day 11\emloyee class\emloyee class\obj\Debug\emloyee class.csproj.AssemblyReference.cache
+D:\rama\netproject\Day 11\emloyee class\emloyee class\obj\Debug\emloyee class.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Day 11\emloyee class\emloyee class\obj\Debug\emloyee class.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Day 11\emloyee class\emloyee class\obj\Debug\emloyee class.exe
+D:\rama\netproject\Day 11\emloyee class\emloyee class\obj\Debug\emloyee class.pdb
