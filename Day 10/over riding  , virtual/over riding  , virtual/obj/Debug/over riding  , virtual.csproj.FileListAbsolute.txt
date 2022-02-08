@@ -1,0 +1,8 @@
+D:\rama\netproject\Day 10\over riding  , virtual\over riding  , virtual\bin\Debug\over riding  , virtual.exe.config
+D:\rama\netproject\Day 10\over riding  , virtual\over riding  , virtual\bin\Debug\over riding  , virtual.exe
+D:\rama\netproject\Day 10\over riding  , virtual\over riding  , virtual\bin\Debug\over riding  , virtual.pdb
+D:\rama\netproject\Day 10\over riding  , virtual\over riding  , virtual\obj\Debug\over riding  , virtual.csproj.AssemblyReference.cache
+D:\rama\netproject\Day 10\over riding  , virtual\over riding  , virtual\obj\Debug\over riding  , virtual.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Day 10\over riding  , virtual\over riding  , virtual\obj\Debug\over riding  , virtual.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Day 10\over riding  , virtual\over riding  , virtual\obj\Debug\over riding  , virtual.exe
+D:\rama\netproject\Day 10\over riding  , virtual\over riding  , virtual\obj\Debug\over riding  , virtual.pdb

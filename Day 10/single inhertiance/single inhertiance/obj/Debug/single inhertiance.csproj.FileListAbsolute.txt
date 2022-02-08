@@ -1,0 +1,8 @@
+D:\rama\netproject\Day 10\single inhertiance\single inhertiance\bin\Debug\single inhertiance.exe.config
+D:\rama\netproject\Day 10\single inhertiance\single inhertiance\bin\Debug\single inhertiance.exe
+D:\rama\netproject\Day 10\single inhertiance\single inhertiance\bin\Debug\single inhertiance.pdb
+D:\rama\netproject\Day 10\single inhertiance\single inhertiance\obj\Debug\single inhertiance.csproj.AssemblyReference.cache
+D:\rama\netproject\Day 10\single inhertiance\single inhertiance\obj\Debug\single inhertiance.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Day 10\single inhertiance\single inhertiance\obj\Debug\single inhertiance.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Day 10\single inhertiance\single inhertiance\obj\Debug\single inhertiance.exe
+D:\rama\netproject\Day 10\single inhertiance\single inhertiance\obj\Debug\single inhertiance.pdb
