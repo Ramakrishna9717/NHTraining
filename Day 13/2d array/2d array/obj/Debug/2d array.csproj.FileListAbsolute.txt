@@ -1,0 +1,8 @@
+D:\rama\netproject\Day 13\2d array\2d array\bin\Debug\2d array.exe.config
+D:\rama\netproject\Day 13\2d array\2d array\bin\Debug\2d array.exe
+D:\rama\netproject\Day 13\2d array\2d array\bin\Debug\2d array.pdb
+D:\rama\netproject\Day 13\2d array\2d array\obj\Debug\2d array.csproj.AssemblyReference.cache
+D:\rama\netproject\Day 13\2d array\2d array\obj\Debug\2d array.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Day 13\2d array\2d array\obj\Debug\2d array.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Day 13\2d array\2d array\obj\Debug\2d array.exe
+D:\rama\netproject\Day 13\2d array\2d array\obj\Debug\2d array.pdb

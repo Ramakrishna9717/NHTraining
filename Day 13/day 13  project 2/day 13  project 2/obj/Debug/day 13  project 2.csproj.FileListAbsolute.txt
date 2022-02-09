@@ -1,0 +1,8 @@
+D:\rama\netproject\Day 13\day 13  project 2\day 13  project 2\bin\Debug\day 13  project 2.exe.config
+D:\rama\netproject\Day 13\day 13  project 2\day 13  project 2\bin\Debug\day 13  project 2.exe
+D:\rama\netproject\Day 13\day 13  project 2\day 13  project 2\bin\Debug\day 13  project 2.pdb
+D:\rama\netproject\Day 13\day 13  project 2\day 13  project 2\obj\Debug\day 13  project 2.csproj.AssemblyReference.cache
+D:\rama\netproject\Day 13\day 13  project 2\day 13  project 2\obj\Debug\day 13  project 2.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Day 13\day 13  project 2\day 13  project 2\obj\Debug\day 13  project 2.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Day 13\day 13  project 2\day 13  project 2\obj\Debug\day 13  project 2.exe
+D:\rama\netproject\Day 13\day 13  project 2\day 13  project 2\obj\Debug\day 13  project 2.pdb
