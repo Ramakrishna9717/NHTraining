@@ -1,0 +1,8 @@
+D:\rama\netproject\day 14\printing  numbers\printing  numbers\bin\Debug\printing  numbers.exe.config
+D:\rama\netproject\day 14\printing  numbers\printing  numbers\bin\Debug\printing  numbers.exe
+D:\rama\netproject\day 14\printing  numbers\printing  numbers\bin\Debug\printing  numbers.pdb
+D:\rama\netproject\day 14\printing  numbers\printing  numbers\obj\Debug\printing  numbers.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\day 14\printing  numbers\printing  numbers\obj\Debug\printing  numbers.csproj.CoreCompileInputs.cache
+D:\rama\netproject\day 14\printing  numbers\printing  numbers\obj\Debug\printing  numbers.exe
+D:\rama\netproject\day 14\printing  numbers\printing  numbers\obj\Debug\printing  numbers.pdb
+D:\rama\netproject\day 14\printing  numbers\printing  numbers\obj\Debug\printing  numbers.csproj.AssemblyReference.cache

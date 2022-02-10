@@ -1,0 +1,8 @@
+D:\rama\netproject\day 14\normal properties\normal properties\bin\Debug\normal properties.exe.config
+D:\rama\netproject\day 14\normal properties\normal properties\bin\Debug\normal properties.exe
+D:\rama\netproject\day 14\normal properties\normal properties\bin\Debug\normal properties.pdb
+D:\rama\netproject\day 14\normal properties\normal properties\obj\Debug\normal properties.csproj.AssemblyReference.cache
+D:\rama\netproject\day 14\normal properties\normal properties\obj\Debug\normal properties.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\day 14\normal properties\normal properties\obj\Debug\normal properties.csproj.CoreCompileInputs.cache
+D:\rama\netproject\day 14\normal properties\normal properties\obj\Debug\normal properties.exe
+D:\rama\netproject\day 14\normal properties\normal properties\obj\Debug\normal properties.pdb

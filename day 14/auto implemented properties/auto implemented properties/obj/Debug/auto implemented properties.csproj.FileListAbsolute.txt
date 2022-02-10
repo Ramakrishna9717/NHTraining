@@ -1,0 +1,8 @@
+D:\rama\netproject\day 14\auto implemented properties\auto implemented properties\bin\Debug\auto implemented properties.exe.config
+D:\rama\netproject\day 14\auto implemented properties\auto implemented properties\bin\Debug\auto implemented properties.exe
+D:\rama\netproject\day 14\auto implemented properties\auto implemented properties\bin\Debug\auto implemented properties.pdb
+D:\rama\netproject\day 14\auto implemented properties\auto implemented properties\obj\Debug\auto implemented properties.csproj.AssemblyReference.cache
+D:\rama\netproject\day 14\auto implemented properties\auto implemented properties\obj\Debug\auto implemented properties.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\day 14\auto implemented properties\auto implemented properties\obj\Debug\auto implemented properties.csproj.CoreCompileInputs.cache
+D:\rama\netproject\day 14\auto implemented properties\auto implemented properties\obj\Debug\auto implemented properties.exe
+D:\rama\netproject\day 14\auto implemented properties\auto implemented properties\obj\Debug\auto implemented properties.pdb

@@ -1,0 +1,8 @@
+D:\rama\netproject\day 14\prime number\prime number\bin\Debug\prime number.exe.config
+D:\rama\netproject\day 14\prime number\prime number\bin\Debug\prime number.exe
+D:\rama\netproject\day 14\prime number\prime number\bin\Debug\prime number.pdb
+D:\rama\netproject\day 14\prime number\prime number\obj\Debug\prime number.csproj.AssemblyReference.cache
+D:\rama\netproject\day 14\prime number\prime number\obj\Debug\prime number.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\day 14\prime number\prime number\obj\Debug\prime number.csproj.CoreCompileInputs.cache
+D:\rama\netproject\day 14\prime number\prime number\obj\Debug\prime number.exe
+D:\rama\netproject\day 14\prime number\prime number\obj\Debug\prime number.pdb

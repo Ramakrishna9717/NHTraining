@@ -1,0 +1,8 @@
+D:\rama\netproject\day 14\sealed clss\sealed clss\bin\Debug\sealed clss.exe.config
+D:\rama\netproject\day 14\sealed clss\sealed clss\bin\Debug\sealed clss.exe
+D:\rama\netproject\day 14\sealed clss\sealed clss\bin\Debug\sealed clss.pdb
+D:\rama\netproject\day 14\sealed clss\sealed clss\obj\Debug\sealed clss.csproj.AssemblyReference.cache
+D:\rama\netproject\day 14\sealed clss\sealed clss\obj\Debug\sealed clss.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\day 14\sealed clss\sealed clss\obj\Debug\sealed clss.csproj.CoreCompileInputs.cache
+D:\rama\netproject\day 14\sealed clss\sealed clss\obj\Debug\sealed clss.exe
+D:\rama\netproject\day 14\sealed clss\sealed clss\obj\Debug\sealed clss.pdb

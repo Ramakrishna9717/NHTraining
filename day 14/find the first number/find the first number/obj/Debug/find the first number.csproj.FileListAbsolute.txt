@@ -1,0 +1,7 @@
+D:\rama\netproject\day 14\find the first number\find the first number\bin\Debug\find the first number.exe.config
+D:\rama\netproject\day 14\find the first number\find the first number\bin\Debug\find the first number.exe
+D:\rama\netproject\day 14\find the first number\find the first number\bin\Debug\find the first number.pdb
+D:\rama\netproject\day 14\find the first number\find the first number\obj\Debug\find the first number.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\day 14\find the first number\find the first number\obj\Debug\find the first number.csproj.CoreCompileInputs.cache
+D:\rama\netproject\day 14\find the first number\find the first number\obj\Debug\find the first number.exe
+D:\rama\netproject\day 14\find the first number\find the first number\obj\Debug\find the first number.pdb
