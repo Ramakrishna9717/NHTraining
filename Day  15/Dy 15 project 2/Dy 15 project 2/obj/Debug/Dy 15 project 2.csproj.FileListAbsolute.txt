@@ -1,0 +1,8 @@
+D:\rama\netproject\Day  15\Dy 15 project 2\Dy 15 project 2\bin\Debug\Dy 15 project 2.exe.config
+D:\rama\netproject\Day  15\Dy 15 project 2\Dy 15 project 2\bin\Debug\Dy 15 project 2.exe
+D:\rama\netproject\Day  15\Dy 15 project 2\Dy 15 project 2\bin\Debug\Dy 15 project 2.pdb
+D:\rama\netproject\Day  15\Dy 15 project 2\Dy 15 project 2\obj\Debug\Dy 15 project 2.csproj.AssemblyReference.cache
+D:\rama\netproject\Day  15\Dy 15 project 2\Dy 15 project 2\obj\Debug\Dy 15 project 2.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Day  15\Dy 15 project 2\Dy 15 project 2\obj\Debug\Dy 15 project 2.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Day  15\Dy 15 project 2\Dy 15 project 2\obj\Debug\Dy 15 project 2.exe
+D:\rama\netproject\Day  15\Dy 15 project 2\Dy 15 project 2\obj\Debug\Dy 15 project 2.pdb
