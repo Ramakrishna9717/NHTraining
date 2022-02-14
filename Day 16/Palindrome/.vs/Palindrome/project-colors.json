@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "53c3d215-272b-4e2b-b58a-bc8cf9d00122": {
+      "ProjectGuid": "53c3d215-272b-4e2b-b58a-bc8cf9d00122",
+      "DisplayName": "Palindrome",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

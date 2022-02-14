@@ -1,0 +1,13 @@
+D:\rama\netproject\Day 16\my project\Client App\bin\Debug\Client App.exe.config
+D:\rama\netproject\Day 16\my project\Client App\bin\Debug\Client App.exe
+D:\rama\netproject\Day 16\my project\Client App\bin\Debug\Client App.pdb
+D:\rama\netproject\Day 16\my project\Client App\obj\Debug\Client App.csproj.AssemblyReference.cache
+D:\rama\netproject\Day 16\my project\Client App\obj\Debug\Client App.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Day 16\my project\Client App\obj\Debug\Client App.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Day 16\my project\Client App\obj\Debug\Client App.exe
+D:\rama\netproject\Day 16\my project\Client App\obj\Debug\Client App.pdb
+D:\rama\netproject\Day 16\my project\Client App\bin\Debug\public library.dll
+D:\rama\netproject\Day 16\my project\Client App\bin\Debug\Ramakrishna library.dll
+D:\rama\netproject\Day 16\my project\Client App\bin\Debug\public library.pdb
+D:\rama\netproject\Day 16\my project\Client App\bin\Debug\Ramakrishna library.pdb
+D:\rama\netproject\Day 16\my project\Client App\obj\Debug\Client App.csproj.CopyComplete

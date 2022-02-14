@@ -1,0 +1,6 @@
+D:\rama\netproject\Day 16\Ramakrishna libary\Ramakrishna libary\bin\Debug\Ramakrishna libary.dll
+D:\rama\netproject\Day 16\Ramakrishna libary\Ramakrishna libary\bin\Debug\Ramakrishna libary.pdb
+D:\rama\netproject\Day 16\Ramakrishna libary\Ramakrishna libary\obj\Debug\Ramakrishna libary.csproj.AssemblyReference.cache
+D:\rama\netproject\Day 16\Ramakrishna libary\Ramakrishna libary\obj\Debug\Ramakrishna libary.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Day 16\Ramakrishna libary\Ramakrishna libary\obj\Debug\Ramakrishna libary.dll
+D:\rama\netproject\Day 16\Ramakrishna libary\Ramakrishna libary\obj\Debug\Ramakrishna libary.pdb

@@ -1,0 +1,8 @@
+D:\rama\netproject\Day 16\Day 16  project1\Day 16  project1\bin\Debug\Day 16  project1.exe.config
+D:\rama\netproject\Day 16\Day 16  project1\Day 16  project1\bin\Debug\Day 16  project1.exe
+D:\rama\netproject\Day 16\Day 16  project1\Day 16  project1\bin\Debug\Day 16  project1.pdb
+D:\rama\netproject\Day 16\Day 16  project1\Day 16  project1\obj\Debug\Day 16  project1.csproj.AssemblyReference.cache
+D:\rama\netproject\Day 16\Day 16  project1\Day 16  project1\obj\Debug\Day 16  project1.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Day 16\Day 16  project1\Day 16  project1\obj\Debug\Day 16  project1.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Day 16\Day 16  project1\Day 16  project1\obj\Debug\Day 16  project1.exe
+D:\rama\netproject\Day 16\Day 16  project1\Day 16  project1\obj\Debug\Day 16  project1.pdb

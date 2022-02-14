@@ -1,0 +1,5 @@
+D:\rama\netproject\Day 16\Rk libray\Rk libray\bin\Debug\Rk libray.dll
+D:\rama\netproject\Day 16\Rk libray\Rk libray\bin\Debug\Rk libray.pdb
+D:\rama\netproject\Day 16\Rk libray\Rk libray\obj\Debug\Rk libray.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Day 16\Rk libray\Rk libray\obj\Debug\Rk libray.dll
+D:\rama\netproject\Day 16\Rk libray\Rk libray\obj\Debug\Rk libray.pdb

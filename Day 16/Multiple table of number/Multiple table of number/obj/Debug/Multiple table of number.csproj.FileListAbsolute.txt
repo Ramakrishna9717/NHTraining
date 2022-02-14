@@ -1,0 +1,8 @@
+D:\rama\netproject\Day 16\Multiple table of number\Multiple table of number\bin\Debug\Multiple table of number.exe.config
+D:\rama\netproject\Day 16\Multiple table of number\Multiple table of number\bin\Debug\Multiple table of number.exe
+D:\rama\netproject\Day 16\Multiple table of number\Multiple table of number\bin\Debug\Multiple table of number.pdb
+D:\rama\netproject\Day 16\Multiple table of number\Multiple table of number\obj\Debug\Multiple table of number.csproj.AssemblyReference.cache
+D:\rama\netproject\Day 16\Multiple table of number\Multiple table of number\obj\Debug\Multiple table of number.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Day 16\Multiple table of number\Multiple table of number\obj\Debug\Multiple table of number.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Day 16\Multiple table of number\Multiple table of number\obj\Debug\Multiple table of number.exe
+D:\rama\netproject\Day 16\Multiple table of number\Multiple table of number\obj\Debug\Multiple table of number.pdb

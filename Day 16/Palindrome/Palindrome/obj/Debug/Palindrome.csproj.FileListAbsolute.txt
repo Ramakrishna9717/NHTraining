@@ -1,0 +1,7 @@
+D:\rama\netproject\Day 16\Palindrome\Palindrome\bin\Debug\Palindrome.exe.config
+D:\rama\netproject\Day 16\Palindrome\Palindrome\bin\Debug\Palindrome.exe
+D:\rama\netproject\Day 16\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+D:\rama\netproject\Day 16\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Day 16\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Day 16\Palindrome\Palindrome\obj\Debug\Palindrome.exe
+D:\rama\netproject\Day 16\Palindrome\Palindrome\obj\Debug\Palindrome.pdb

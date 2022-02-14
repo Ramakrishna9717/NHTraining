@@ -1,0 +1,16 @@
+D:\rama\netproject\Day 16\my project\MyWindows App\bin\Debug\MyWindows App.exe.config
+D:\rama\netproject\Day 16\my project\MyWindows App\bin\Debug\MyWindows App.exe
+D:\rama\netproject\Day 16\my project\MyWindows App\bin\Debug\MyWindows App.pdb
+D:\rama\netproject\Day 16\my project\MyWindows App\bin\Debug\public library.dll
+D:\rama\netproject\Day 16\my project\MyWindows App\bin\Debug\Ramakrishna library.dll
+D:\rama\netproject\Day 16\my project\MyWindows App\bin\Debug\public library.pdb
+D:\rama\netproject\Day 16\my project\MyWindows App\bin\Debug\Ramakrishna library.pdb
+D:\rama\netproject\Day 16\my project\MyWindows App\obj\Debug\MyWindows App.csproj.AssemblyReference.cache
+D:\rama\netproject\Day 16\my project\MyWindows App\obj\Debug\MyWindows App.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Day 16\my project\MyWindows App\obj\Debug\MyWindows_App.Form1.resources
+D:\rama\netproject\Day 16\my project\MyWindows App\obj\Debug\MyWindows_App.Properties.Resources.resources
+D:\rama\netproject\Day 16\my project\MyWindows App\obj\Debug\MyWindows App.csproj.GenerateResource.cache
+D:\rama\netproject\Day 16\my project\MyWindows App\obj\Debug\MyWindows App.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Day 16\my project\MyWindows App\obj\Debug\MyWindows App.csproj.CopyComplete
+D:\rama\netproject\Day 16\my project\MyWindows App\obj\Debug\MyWindows App.exe
+D:\rama\netproject\Day 16\my project\MyWindows App\obj\Debug\MyWindows App.pdb

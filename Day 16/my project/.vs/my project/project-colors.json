@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b8a0713a-8dc0-40ac-bf9c-ca33c3eac20a": {
+      "ProjectGuid": "b8a0713a-8dc0-40ac-bf9c-ca33c3eac20a",
+      "DisplayName": "Ramakrishna library",
+      "ColorIndex": 0
+    },
+    "57ce090f-73d8-47ec-b758-2665760dcecb": {
+      "ProjectGuid": "57ce090f-73d8-47ec-b758-2665760dcecb",
+      "DisplayName": "public library",
+      "ColorIndex": 1
+    },
+    "d07e1de9-df7e-4fac-89e8-34c6af564ddd": {
+      "ProjectGuid": "d07e1de9-df7e-4fac-89e8-34c6af564ddd",
+      "DisplayName": "Client App",
+      "ColorIndex": 2
+    },
+    "df9541a5-ef8d-4058-958c-ffbc667acc90": {
+      "ProjectGuid": "df9541a5-ef8d-4058-958c-ffbc667acc90",
+      "DisplayName": "MyWindows App",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
