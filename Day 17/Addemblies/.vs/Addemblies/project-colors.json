@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3041dcc2-9b98-4f4e-bce5-ac8a0802a138": {
+      "ProjectGuid": "3041dcc2-9b98-4f4e-bce5-ac8a0802a138",
+      "DisplayName": "Rk Library",
+      "ColorIndex": 0
+    },
+    "366fc04a-671e-490d-945c-9a0904d64569": {
+      "ProjectGuid": "366fc04a-671e-490d-945c-9a0904d64569",
+      "DisplayName": "public Library",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
