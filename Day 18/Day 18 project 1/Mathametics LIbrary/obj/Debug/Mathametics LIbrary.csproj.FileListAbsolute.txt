@@ -1,0 +1,6 @@
+D:\rama\netproject\Day 18\Day 18 project 1\Mathametics LIbrary\bin\Debug\Mathametics LIbrary.dll
+D:\rama\netproject\Day 18\Day 18 project 1\Mathametics LIbrary\bin\Debug\Mathametics LIbrary.pdb
+D:\rama\netproject\Day 18\Day 18 project 1\Mathametics LIbrary\obj\Debug\Mathametics LIbrary.csproj.AssemblyReference.cache
+D:\rama\netproject\Day 18\Day 18 project 1\Mathametics LIbrary\obj\Debug\Mathametics LIbrary.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Day 18\Day 18 project 1\Mathametics LIbrary\obj\Debug\Mathametics LIbrary.dll
+D:\rama\netproject\Day 18\Day 18 project 1\Mathametics LIbrary\obj\Debug\Mathametics LIbrary.pdb

@@ -1,0 +1,17 @@
+D:\rama\netproject\Day 18\Day 18 project 1\Mathametics LIbraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\rama\netproject\Day 18\Day 18 project 1\Mathametics LIbraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\rama\netproject\Day 18\Day 18 project 1\Mathametics LIbraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\rama\netproject\Day 18\Day 18 project 1\Mathametics LIbraryTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\rama\netproject\Day 18\Day 18 project 1\Mathametics LIbraryTests\bin\Debug\Mathametics LIbraryTests.dll
+D:\rama\netproject\Day 18\Day 18 project 1\Mathametics LIbraryTests\bin\Debug\Mathametics LIbraryTests.pdb
+D:\rama\netproject\Day 18\Day 18 project 1\Mathametics LIbraryTests\bin\Debug\Mathametics LIbrary.dll
+D:\rama\netproject\Day 18\Day 18 project 1\Mathametics LIbraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\rama\netproject\Day 18\Day 18 project 1\Mathametics LIbraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\rama\netproject\Day 18\Day 18 project 1\Mathametics LIbraryTests\bin\Debug\Mathametics LIbrary.pdb
+D:\rama\netproject\Day 18\Day 18 project 1\Mathametics LIbraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\rama\netproject\Day 18\Day 18 project 1\Mathametics LIbraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\rama\netproject\Day 18\Day 18 project 1\Mathametics LIbraryTests\obj\Debug\Mathametics LIbraryTests.csproj.AssemblyReference.cache
+D:\rama\netproject\Day 18\Day 18 project 1\Mathametics LIbraryTests\obj\Debug\Mathametics LIbraryTests.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Day 18\Day 18 project 1\Mathametics LIbraryTests\obj\Debug\Mathametics LIbraryTests.csproj.CopyComplete
+D:\rama\netproject\Day 18\Day 18 project 1\Mathametics LIbraryTests\obj\Debug\Mathametics LIbraryTests.dll
+D:\rama\netproject\Day 18\Day 18 project 1\Mathametics LIbraryTests\obj\Debug\Mathametics LIbraryTests.pdb

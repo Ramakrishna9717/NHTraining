@@ -1,0 +1,14 @@
+D:\rama\netproject\Day 18\Day 18 project 1\windows app\bin\Debug\windows app.exe.config
+D:\rama\netproject\Day 18\Day 18 project 1\windows app\bin\Debug\windows app.exe
+D:\rama\netproject\Day 18\Day 18 project 1\windows app\bin\Debug\windows app.pdb
+D:\rama\netproject\Day 18\Day 18 project 1\windows app\bin\Debug\Mathametics LIbrary.dll
+D:\rama\netproject\Day 18\Day 18 project 1\windows app\bin\Debug\Mathametics LIbrary.pdb
+D:\rama\netproject\Day 18\Day 18 project 1\windows app\obj\Debug\windows app.csproj.AssemblyReference.cache
+D:\rama\netproject\Day 18\Day 18 project 1\windows app\obj\Debug\windows app.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Day 18\Day 18 project 1\windows app\obj\Debug\windows_app.Form1.resources
+D:\rama\netproject\Day 18\Day 18 project 1\windows app\obj\Debug\windows_app.Properties.Resources.resources
+D:\rama\netproject\Day 18\Day 18 project 1\windows app\obj\Debug\windows app.csproj.GenerateResource.cache
+D:\rama\netproject\Day 18\Day 18 project 1\windows app\obj\Debug\windows app.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Day 18\Day 18 project 1\windows app\obj\Debug\windows app.csproj.CopyComplete
+D:\rama\netproject\Day 18\Day 18 project 1\windows app\obj\Debug\windows app.exe
+D:\rama\netproject\Day 18\Day 18 project 1\windows app\obj\Debug\windows app.pdb

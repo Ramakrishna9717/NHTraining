@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c85c6150-ee51-405a-99e3-1cf49b58f23f": {
+      "ProjectGuid": "c85c6150-ee51-405a-99e3-1cf49b58f23f",
+      "DisplayName": "Day 18 project 1",
+      "ColorIndex": 0
+    },
+    "2fd0d287-c8cc-49c2-b7bc-f588de3c372c": {
+      "ProjectGuid": "2fd0d287-c8cc-49c2-b7bc-f588de3c372c",
+      "DisplayName": "Mathametics LIbrary",
+      "ColorIndex": 1
+    },
+    "d656a348-d749-417b-8a0f-ac2bc35ae1b6": {
+      "ProjectGuid": "d656a348-d749-417b-8a0f-ac2bc35ae1b6",
+      "DisplayName": "windows app",
+      "ColorIndex": 2
+    },
+    "878e9485-3fba-4c43-9890-a15fbe5ce936": {
+      "ProjectGuid": "878e9485-3fba-4c43-9890-a15fbe5ce936",
+      "DisplayName": "Mathametics LIbraryTests",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
