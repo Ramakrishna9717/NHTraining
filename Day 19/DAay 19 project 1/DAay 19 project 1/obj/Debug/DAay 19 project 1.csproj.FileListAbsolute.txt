@@ -1,0 +1,8 @@
+D:\rama\netproject\Day 19\DAay 19 project 1\DAay 19 project 1\bin\Debug\DAay 19 project 1.exe.config
+D:\rama\netproject\Day 19\DAay 19 project 1\DAay 19 project 1\bin\Debug\DAay 19 project 1.exe
+D:\rama\netproject\Day 19\DAay 19 project 1\DAay 19 project 1\bin\Debug\DAay 19 project 1.pdb
+D:\rama\netproject\Day 19\DAay 19 project 1\DAay 19 project 1\obj\Debug\DAay 19 project 1.csproj.AssemblyReference.cache
+D:\rama\netproject\Day 19\DAay 19 project 1\DAay 19 project 1\obj\Debug\DAay 19 project 1.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Day 19\DAay 19 project 1\DAay 19 project 1\obj\Debug\DAay 19 project 1.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Day 19\DAay 19 project 1\DAay 19 project 1\obj\Debug\DAay 19 project 1.exe
+D:\rama\netproject\Day 19\DAay 19 project 1\DAay 19 project 1\obj\Debug\DAay 19 project 1.pdb

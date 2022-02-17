@@ -1,0 +1,8 @@
+D:\rama\netproject\Day 19\Day 19 Projecr 2A\Day 19 Projecr 2A\bin\Debug\Day 19 Projecr 2A.exe.config
+D:\rama\netproject\Day 19\Day 19 Projecr 2A\Day 19 Projecr 2A\bin\Debug\Day 19 Projecr 2A.exe
+D:\rama\netproject\Day 19\Day 19 Projecr 2A\Day 19 Projecr 2A\bin\Debug\Day 19 Projecr 2A.pdb
+D:\rama\netproject\Day 19\Day 19 Projecr 2A\Day 19 Projecr 2A\obj\Debug\Day 19 Projecr 2A.csproj.AssemblyReference.cache
+D:\rama\netproject\Day 19\Day 19 Projecr 2A\Day 19 Projecr 2A\obj\Debug\Day 19 Projecr 2A.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Day 19\Day 19 Projecr 2A\Day 19 Projecr 2A\obj\Debug\Day 19 Projecr 2A.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Day 19\Day 19 Projecr 2A\Day 19 Projecr 2A\obj\Debug\Day 19 Projecr 2A.exe
+D:\rama\netproject\Day 19\Day 19 Projecr 2A\Day 19 Projecr 2A\obj\Debug\Day 19 Projecr 2A.pdb
