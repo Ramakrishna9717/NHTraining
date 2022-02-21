@@ -1,0 +1,11 @@
+D:\rama\netproject\Day 21\Day 21 Project 3\Day 21 Project 3\bin\Debug\Day 21 Project 3.exe.config
+D:\rama\netproject\Day 21\Day 21 Project 3\Day 21 Project 3\bin\Debug\Day 21 Project 3.exe
+D:\rama\netproject\Day 21\Day 21 Project 3\Day 21 Project 3\bin\Debug\Day 21 Project 3.pdb
+D:\rama\netproject\Day 21\Day 21 Project 3\Day 21 Project 3\obj\Debug\Day 21 Project 3.csproj.AssemblyReference.cache
+D:\rama\netproject\Day 21\Day 21 Project 3\Day 21 Project 3\obj\Debug\Day 21 Project 3.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Day 21\Day 21 Project 3\Day 21 Project 3\obj\Debug\Day_21_Project_3.Form1.resources
+D:\rama\netproject\Day 21\Day 21 Project 3\Day 21 Project 3\obj\Debug\Day_21_Project_3.Properties.Resources.resources
+D:\rama\netproject\Day 21\Day 21 Project 3\Day 21 Project 3\obj\Debug\Day 21 Project 3.csproj.GenerateResource.cache
+D:\rama\netproject\Day 21\Day 21 Project 3\Day 21 Project 3\obj\Debug\Day 21 Project 3.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Day 21\Day 21 Project 3\Day 21 Project 3\obj\Debug\Day 21 Project 3.exe
+D:\rama\netproject\Day 21\Day 21 Project 3\Day 21 Project 3\obj\Debug\Day 21 Project 3.pdb
