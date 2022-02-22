@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7bf79096-e2e6-467b-b8d9-c6cececf6e9d": {
+      "ProjectGuid": "7bf79096-e2e6-467b-b8d9-c6cececf6e9d",
+      "DisplayName": "RkFinalproject",
+      "ColorIndex": 0
+    },
+    "8b89ac84-6969-4e89-b288-94535d55a37e": {
+      "ProjectGuid": "8b89ac84-6969-4e89-b288-94535d55a37e",
+      "DisplayName": "MyClientApp",
+      "ColorIndex": 1
+    },
+    "7bc323b1-22ce-49d5-89ee-35681abc2024": {
+      "ProjectGuid": "7bc323b1-22ce-49d5-89ee-35681abc2024",
+      "DisplayName": "BusinessLogicLibrary",
+      "ColorIndex": 2
+    },
+    "5fa4e04f-a828-4c9a-9e44-935bd9cbb205": {
+      "ProjectGuid": "5fa4e04f-a828-4c9a-9e44-935bd9cbb205",
+      "DisplayName": "DataAccessesLibrary",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

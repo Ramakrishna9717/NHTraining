@@ -1,0 +1,9 @@
+D:\rama\netproject\Day 22\RkFinalproject\BusinessLogicLibrary\bin\Debug\BusinessLogicLibrary.dll
+D:\rama\netproject\Day 22\RkFinalproject\BusinessLogicLibrary\bin\Debug\BusinessLogicLibrary.pdb
+D:\rama\netproject\Day 22\RkFinalproject\BusinessLogicLibrary\bin\Debug\EmployeeDALLibrary.dll
+D:\rama\netproject\Day 22\RkFinalproject\BusinessLogicLibrary\bin\Debug\EmployeeDALLibrary.pdb
+D:\rama\netproject\Day 22\RkFinalproject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.csproj.AssemblyReference.cache
+D:\rama\netproject\Day 22\RkFinalproject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Day 22\RkFinalproject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.csproj.CopyComplete
+D:\rama\netproject\Day 22\RkFinalproject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.dll
+D:\rama\netproject\Day 22\RkFinalproject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.pdb

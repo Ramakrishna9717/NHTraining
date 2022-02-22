@@ -1,0 +1,13 @@
+D:\rama\netproject\Day 22\RkFinalproject\MyClientApp\bin\Debug\MyClientApp.exe.config
+D:\rama\netproject\Day 22\RkFinalproject\MyClientApp\bin\Debug\MyClientApp.exe
+D:\rama\netproject\Day 22\RkFinalproject\MyClientApp\bin\Debug\MyClientApp.pdb
+D:\rama\netproject\Day 22\RkFinalproject\MyClientApp\bin\Debug\BusinessLogicLibrary.dll
+D:\rama\netproject\Day 22\RkFinalproject\MyClientApp\bin\Debug\EmployeeDALLibrary.dll
+D:\rama\netproject\Day 22\RkFinalproject\MyClientApp\bin\Debug\BusinessLogicLibrary.pdb
+D:\rama\netproject\Day 22\RkFinalproject\MyClientApp\bin\Debug\EmployeeDALLibrary.pdb
+D:\rama\netproject\Day 22\RkFinalproject\MyClientApp\obj\Debug\MyClientApp.csproj.AssemblyReference.cache
+D:\rama\netproject\Day 22\RkFinalproject\MyClientApp\obj\Debug\MyClientApp.csproj.SuggestedBindingRedirects.cache
+D:\rama\netproject\Day 22\RkFinalproject\MyClientApp\obj\Debug\MyClientApp.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Day 22\RkFinalproject\MyClientApp\obj\Debug\MyClientApp.csproj.CopyComplete
+D:\rama\netproject\Day 22\RkFinalproject\MyClientApp\obj\Debug\MyClientApp.exe
+D:\rama\netproject\Day 22\RkFinalproject\MyClientApp\obj\Debug\MyClientApp.pdb

@@ -1,0 +1,6 @@
+D:\rama\netproject\Day 22\RkFinalproject\EmployeeDALLibrary\bin\Debug\EmployeeDALLibrary.dll
+D:\rama\netproject\Day 22\RkFinalproject\EmployeeDALLibrary\bin\Debug\EmployeeDALLibrary.pdb
+D:\rama\netproject\Day 22\RkFinalproject\EmployeeDALLibrary\obj\Debug\DataAccessesLibrary.csproj.CoreCompileInputs.cache
+D:\rama\netproject\Day 22\RkFinalproject\EmployeeDALLibrary\obj\Debug\EmployeeDALLibrary.dll
+D:\rama\netproject\Day 22\RkFinalproject\EmployeeDALLibrary\obj\Debug\EmployeeDALLibrary.pdb
+D:\rama\netproject\Day 22\RkFinalproject\EmployeeDALLibrary\obj\Debug\DataAccessesLibrary.csproj.AssemblyReference.cache
